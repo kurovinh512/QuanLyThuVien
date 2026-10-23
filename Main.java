@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Nhap ho ten: ");
+        System.out.print("Ha Huynh Anh Vinh ");
         String hoTen = sc.nextLine();
 
-        System.out.println("Ho ten cua ban: " + hoTen);
+        System.out.println("Ho ten cua ban: Ha Huynh Anh Vinh");
         sc.close();
     }
 }
